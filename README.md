@@ -15,7 +15,7 @@ Developed an end-to-end Amazon Product Analysis project using Python and Power B
 ## Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](overview.jpeg)
 
 ### Sales & Rating Analysis
 ![Sales Analysis](screenshots/sales-analysis.png)
