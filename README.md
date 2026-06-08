@@ -20,15 +20,15 @@ Developed an end-to-end Amazon Product Analysis project using Python and Power B
 
 ## Sales & Rating Analysis
 
-![Sales Analysis](Rating & Overview.jpeg)
+<img src="Rating%20%26%20Overview.jpeg" width="800">
 
 ## Category Performance Analysis
 
-![Category Analysis](Category & Analysis.jpeg)
+<img src="Category%20%26%20Analysis.jpeg" width="800">
 
 ## Pricing & Discount Analysis
 
-![Pricing Analysis](Pricing & Discount.jpeg)
+<img src="Pricing%20%26%20Discount.jpeg" width="800">
 
 ## Product Insights
 
