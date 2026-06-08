@@ -14,14 +14,25 @@ Developed an end-to-end Amazon Product Analysis project using Python and Power B
 
 ## Dashboard Screenshots
 
-### Dashboard Overview
-![Dashboard Overview](overview.jpeg)
+## Dashboard Overview
 
-### Sales & Rating Analysis
-![Sales Analysis](screenshots/sales-analysis.png)
+![Dashboard Overview](Overview.jpeg)
 
-### Category Performance Analysis
-![Category Analysis](screenshots/category-analysis.png)
+## Sales & Rating Analysis
+
+![Sales Analysis](Rating & Overview.jpeg)
+
+## Category Performance Analysis
+
+![Category Analysis](Category & Analysis.jpeg)
+
+## Pricing & Discount Analysis
+
+![Pricing Analysis](Pricing & Discount.jpeg)
+
+## Product Insights
+
+![Product Insights](Product_insights.jpeg)
 
 ## Key Insights
 - Identified top-rated products across categories.
